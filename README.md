@@ -26,3 +26,5 @@ Security Groups act as a firewall
 Containers require port exposure
 
 Linux services vs containerized services
+
+“For demo purposes, SSH is open to the internet. In production, SSH access should be restricted to specific IPs.”
