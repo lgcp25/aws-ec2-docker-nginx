@@ -39,3 +39,7 @@ Linux services vs containerized services
 ### Security Group inbound rules
 ![Security Group rules](images/security-group.png)
 
+## Result
+The nginx container is running and exposed via port 8080 on an AWS EC2 instance.
+
+Access: http://3.15.41.105:8080
