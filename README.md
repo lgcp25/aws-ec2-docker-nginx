@@ -14,7 +14,7 @@ This project demonstrates a basic cloud infrastructure using AWS EC2 running Doc
 ## Steps
 1. Created EC2 instance
 2. Configured Security Groups
-3. Installed Docker images/docker.PNG
+3. Installed Docker 
 4. Ran nginx container exposing port 8080
 
 ## How to Run
