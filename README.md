@@ -38,3 +38,6 @@ Linux services vs containerized services
 
 ### Security Group inbound rules
 ![Security Group rules](images/security-group.PNG)
+
+###Teste
+![teste](images/nginx.PNG)
