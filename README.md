@@ -31,10 +31,10 @@ Linux services vs containerized services
 ## Screenshots
 
 ### Docker container running
-![Docker running](images/docker.png)
+![Docker running](images/docker.PNG)
 
 ### Accessing the container in the browser
-![Nginx in browser](images/nginx.png)
+![Nginx in browser](images/nginx.PNG)
 
 ### Security Group inbound rules
-![Security Group rules](images/security-group.png)
+![Security Group rules](images/security-group.PNG)
