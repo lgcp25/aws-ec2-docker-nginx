@@ -28,3 +28,13 @@ Containers require port exposure
 Linux services vs containerized services
 
 “For demo purposes, SSH is open to the internet. In production, SSH access should be restricted to specific IPs.”
+## Screenshots
+
+### Docker container running
+![Docker running](images/docker.png)
+
+### Accessing the container in the browser
+![Nginx in browser](images/nginx.png)
+
+### Security Group inbound rules
+![Security Group rules](images/security-group.png)
